@@ -1,5 +1,8 @@
 _repo: The-Sea-Hawk_3294
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sabatini, Rafael
@@ -16,6 +19,8 @@ description: "The Sea Hawk is a novel by Rafael Sabatini, originally published i
   \ Oliver is liberated by Barbary pirates. He joins the pirates, gaining the name\
   \ \"Sakr-el-Bahr\" (the hawk of the sea), and swears vengeance against his brother.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3294#The-Sea-Hawk
 gutenberg_bookshelf:
 - Movie Books
 - Bestsellers, American, 1895-1923
